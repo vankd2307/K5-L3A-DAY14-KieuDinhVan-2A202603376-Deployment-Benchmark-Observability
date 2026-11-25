@@ -2,7 +2,7 @@
 
 > Mọi con số phải lấy từ report JSON / CSV / screenshot thật, không ước lượng.
 
-**Họ tên:** Kieu Dinh Van (2A202603376)
+**Họ tên:** Kiều Đình Văn (2A202603376)
 **Ngày chạy:** 2026-11-25 (Part 7 Bước 1 và Bước 2)
 **Môi trường:** Windows 11, Docker Desktop 28.0.4; agent và công cụ đo chạy trong container `python:3.11-slim`
 
